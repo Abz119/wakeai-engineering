@@ -4,6 +4,20 @@
 
 > WakeAI is an active private product. This repository documents selected architecture, engineering decisions and lessons without publishing the production codebase, user data, prompts, schemas, credentials or proprietary behavioural logic.
 
+## Product preview
+
+WakeAI is a live product concept. Visit [wakeai.online](https://www.wakeai.online) for the public product site.
+
+<p align="center">
+  <img src="assets/wakeai-iphone-lineup.png" alt="WakeAI iPhone product screens showing the daily timeline, sunrise alarms and AI assistant" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/wakeai-timeline.png" alt="WakeAI daily timeline in the native iOS app" width="360" />
+</p>
+
+These images show the product surface only; no production data, internal tooling or private implementation details are included.
+
 ## The product problem
 
 Most productivity tools wait to be managed. WakeAI is designed around a different loop:
